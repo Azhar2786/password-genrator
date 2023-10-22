@@ -130,7 +130,7 @@ async function copyContent() {
 
     setTimeout(() => {
         copyMessage.classList.remove('active');
-    }, 3000);
+    }, 2000);
 }
 
 copyBtn.addEventListener("click", () => {
